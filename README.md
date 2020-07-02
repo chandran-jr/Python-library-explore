@@ -1,3 +1,7 @@
 # Python-mini-projects
 Some interesting python programs(not the basics).
-Import required libraries
+
+
+Import required libraries.
+
+Useful short programs.

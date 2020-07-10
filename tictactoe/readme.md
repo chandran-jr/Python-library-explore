@@ -1,1 +1,1 @@
-Simple tictactoe game
+Simple tictactoe game using pygame

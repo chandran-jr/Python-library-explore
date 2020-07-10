@@ -1,1 +1,1 @@
-Uses google API
+Using google API

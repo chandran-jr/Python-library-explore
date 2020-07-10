@@ -1,0 +1,18 @@
+from google.colab import files
+files.upload()
+
+
+username = input()
+import json
+
+ndata = []
+c=0
+with open('messages.json', encoding='utf-8') as mes:
+    data = json.load(mes)
+    for a in data:
+        mes = a['conversation']
+        for x in mes:
+            if (x['sender']==username) and ('text' in x):
+              c=c+1
+
+print(c)

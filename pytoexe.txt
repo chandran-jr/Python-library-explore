@@ -1,0 +1,8 @@
+first install pyinstaller
+go to cmd
+type "pip install pyinstaller"
+pyinstaller filename.py
+go to filename.py location
+go to build at same location
+go to filename
+click on filename.exe
